@@ -342,7 +342,7 @@ nav.navbar .navbar-nav .nav-link {
     left: 20px;
     padding: 7px 10px;
     position: absolute;
-    top: 20px;
+    top: 10px;
     z-index: 9;
 }
 
@@ -497,7 +497,7 @@ nav.navbar .navbar-nav .nav-link {
 
 /* Properties List */
 .card-list-view .card-body, .card-list-view .card-footer {
-    padding: 20px 30px;
+    padding: 11px 11px;
 }
 /* Blog */
 .blog-card .card-footer img {
